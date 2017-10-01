@@ -295,4 +295,19 @@ string &operator+(const string& A,const string& B) //cpp
 Github的Markdown语法支持添加emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情。
 
 比如`:blush:`，可以显示:blush:。  
-:sleeping::cry:
+:sleeping::cry:  
+
+diff语法
+---------
+版本控制的系统中都少不了diff的功能，即展示一个文件内容的增加与删除。
+GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示删除。
+
+其语法与代码高亮类似，只是在三个反引号后面写diff，
+并且其内容中，以 `+ `开头表示新增，`- `开头表示删除。
+
+效果如下：
+
+```diff
++ 鸟宿池边树，僧敲月下门
+- 鸟宿池边树，僧推月下门
+```
