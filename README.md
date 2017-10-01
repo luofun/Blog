@@ -166,4 +166,9 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |2|`[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]`|[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]|
 |3|`[![csdn-logo]][csdn]`|[![csdn-logo]][csdn]|
 
+### 锚点
+其实呢，每一个标题都是一个锚点，和HTML的锚点（`#`）类似，比如我们 
 
+|语法|效果|
+|---|---|
+|`[回到顶部](#readme)`|[回到顶部](#readme)|
