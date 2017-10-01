@@ -31,3 +31,6 @@ My markdown Blog in GIthub
     * 斜体
     * 粗体
     * 删除线
+* [图片](#图片)
+    * 来源于网络的图片
+    * GitHub仓库中的图片
