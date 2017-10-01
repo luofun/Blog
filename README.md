@@ -24,7 +24,7 @@ My markdown Blog in GIthub
 ### E-mail:iamluofun@gmail.com
 
 * 普通文本
-    * 单行文本
+* 单行文本
     * 多行文本
     * 文字高亮
     * 换行
