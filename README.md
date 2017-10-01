@@ -22,3 +22,12 @@ My markdown Blog in GIthub
 * [文本](#文本)
 
 ### E-mail:iamluofun@gmail.com
+
+* 普通文本
+    * 单行文本
+    * 多行文本
+    * 文字高亮
+    * 换行
+    * 斜体
+    * 粗体
+    * 删除线
