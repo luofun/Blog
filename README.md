@@ -133,5 +133,11 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 ```
 [foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 ```
-
+链接
+------
+### 链接外部URL
+|#|语法|效果|
+|---|----|-----|
+|1|`[我的博客](https://www.baidu.com "悬停显示")`|[我的博客](https://www.baidu.com "悬停显示")|
+|2|`[我的知乎][zhihu] `|[我的知乎][zhihu] |
 
